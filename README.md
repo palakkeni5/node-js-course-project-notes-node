@@ -8,7 +8,7 @@ Hello users ,
 
 2)Navigate to the node-js-course-project-notes-node directory using the command prompt/terminal
 
-3) use the command ' npm install ' to install the modules required for the application
+3)Use the command ' npm install ' to install the modules required for the application
 
 4)Now you are able to use the app!!
 
