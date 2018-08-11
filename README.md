@@ -14,10 +14,10 @@ Hello users ,
 
 Files & Directories in the app:
 
-1)playground
+1)playground :
     As the name suggests it contains the sample code to play around with the various features of node.js.Feel free to navigate with the simple commands
  
-2)app.js
+2)app.js :
     It is the main file to start the app
     
     The app has 4 features or commands to use:
@@ -45,11 +45,11 @@ Files & Directories in the app:
       Use : node app.js remove -t "note-title" 
         in the command prompt/terminal
         
-3)notes.js
+3)notes.js :
     It contains the function to execute the commands
    
-4)notes-data.json
+4)notes-data.json :
     It contains the data of notes in json format
 
-5)package.json and package-lock.json
+5)package.json and package-lock.json : 
     It contains the dependencies and the details of the project
